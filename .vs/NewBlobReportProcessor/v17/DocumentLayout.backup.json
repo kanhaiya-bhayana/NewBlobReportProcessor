@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kanhaiya\\Leaning\\NewBlobReportProcessor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C22AC87-334F-405D-B3ED-79812D396769}|NewBlobReportProcessor\\NewBlobReportProcessor.csproj|d:\\kanhaiya\\leaning\\newblobreportprocessor\\newblobreportprocessor\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{1C22AC87-334F-405D-B3ED-79812D396769}|NewBlobReportProcessor\\NewBlobReportProcessor.csproj|solutionrelative:newblobreportprocessor\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C22AC87-334F-405D-B3ED-79812D396769}|NewBlobReportProcessor\\NewBlobReportProcessor.csproj|d:\\kanhaiya\\leaning\\newblobreportprocessor\\newblobreportprocessor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1C22AC87-334F-405D-B3ED-79812D396769}|NewBlobReportProcessor\\NewBlobReportProcessor.csproj|solutionrelative:newblobreportprocessor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\Kanhaiya\\Leaning\\NewBlobReportProcessor\\NewBlobReportProcessor\\.gitignore",
+              "RelativeDocumentMoniker": "NewBlobReportProcessor\\.gitignore",
+              "ToolTip": "D:\\Kanhaiya\\Leaning\\NewBlobReportProcessor\\NewBlobReportProcessor\\.gitignore",
+              "RelativeToolTip": "NewBlobReportProcessor\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-22T16:27:14.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Kanhaiya\\Leaning\\NewBlobReportProcessor\\NewBlobReportProcessor\\appsettings.json",
+              "RelativeDocumentMoniker": "NewBlobReportProcessor\\appsettings.json",
+              "ToolTip": "D:\\Kanhaiya\\Leaning\\NewBlobReportProcessor\\NewBlobReportProcessor\\appsettings.json",
+              "RelativeToolTip": "NewBlobReportProcessor\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-22T13:54:08.029Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

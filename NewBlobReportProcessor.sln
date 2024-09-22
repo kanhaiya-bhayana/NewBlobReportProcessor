@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewBlobReportProcessor", "NewBlobReportProcessor\NewBlobReportProcessor.csproj", "{1C22AC87-334F-405D-B3ED-79812D396769}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C22AC87-334F-405D-B3ED-79812D396769}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C22AC87-334F-405D-B3ED-79812D396769}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C22AC87-334F-405D-B3ED-79812D396769}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C22AC87-334F-405D-B3ED-79812D396769}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98BA07D0-DB9A-4A8B-9338-957917B69A8F}
+	EndGlobalSection
+EndGlobal
